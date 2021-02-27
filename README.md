@@ -1,6 +1,6 @@
 ### This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img height="32" src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif?1450458551" title="nyancat" alt="nyancat gif"/> - Project using the Pomodoro technique in Next.js
+<img height="32" src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif?1450458551" title="nyancat" alt="nyancat gif"/> - Project using the Pomodoro technique built with Next.js
 
 Do the proposed challenges to earn XP and Levels! - <img height="32" src="https://emojis.slackmojis.com/emojis/images/1589323974/9036/stonks.png?1589323974" title="stonks" alt="stonks gif"/>
 
